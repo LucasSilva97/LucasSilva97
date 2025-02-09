@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Santana</h1>
-<h3 align="center">Vivo em busca de desafios de Análise e visualização de dados</h3>
+<h3 align="center">Sou Assistente de Dados, e vivo em busca de desafios e novas oportunidades na área</h3>
 
-- 🌱 I’m currently learning **Power BI, SQL**
+- 🌱 I’m currently learning **Power BI, SQL, Python**
 
 - 📝 Para acompanhar meus artigos [https://web.dio.me/users/lucas-silva-santana/?tab=articles&page=1](https://web.dio.me/users/lucas-silva-santana/?tab=articles&page=1)
 
