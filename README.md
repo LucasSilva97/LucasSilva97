@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Power BI, SQL, Python**
 
-- 📝 Para acompanhar meus artigos [https://web.dio.me/users/lucas-silva-santana/?tab=articles&page=1](https://web.dio.me/users/lucas-silva-santana/?tab=articles&page=1)
-
 - 💬 Pergunte-me sobre **Excel, Power BI, SQL**
 
 - 📫Contato **lucas-silva-santana@hotmail.com**
