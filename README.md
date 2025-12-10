@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power BI, SQL, Python**
 
-- 💬 Pergunte-me sobre **Excel, Power BI, SQL**
+- 💬 Pergunte-me sobre **Excel, Power BI, SQL, Python**
 
 - 📫Contato **lucas-silva-santana@hotmail.com**
 
