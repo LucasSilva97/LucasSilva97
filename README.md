@@ -10,7 +10,7 @@
 - 🔧 **Engenharia de Dados** - Construindo pipelines robustos e escaláveis
 - 📱 **Desenvolvimento Mobile** - Experimentando Flutter com foco em aplicações de dados
 - 🌱 Sempre aprendendo e explorando novas tecnologias
-- 💬 Apaixonado por Python, SQL e automação de processos
+- 💬 Apaixonado por Python, SQL, Flutter (experimental) e Engenharia de Dados
 
 ---
 
